@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(npm show *)",
+      "Bash(npx nano-banana-2-mcp *)",
+      "Bash(echo \"EXIT_CODE: $?\")",
+      "Bash(curl -s --max-time 15 \"https://en.wikipedia.org/w/api.php?action=query&titles=Tiger&prop=revisions&rvprop=content&rvslots=main&format=json&rvsection=0\")",
+      "Bash(python3 -c \"import sys,json; d=json.load\\(sys.stdin\\); pages=d['query']['pages']; p=list\\(pages.values\\(\\)\\)[0]; print\\(p['revisions'][0]['slots']['main']['*'][:3000]\\)\")",
+      "Bash(curl -s --max-time 30 -L --compressed \"https://en.wikipedia.org/wiki/Tiger\" -H \"Accept: text/html\" -H \"Accept-Language: en-US,en;q=0.9\" -H \"User-Agent: Mozilla/5.0 \\(Windows NT 10.0; Win64; x64\\) AppleWebKit/537.36 \\(KHTML, like Gecko\\) Chrome/122.0.0.0 Safari/537.36\")"
+    ]
+  }
+}

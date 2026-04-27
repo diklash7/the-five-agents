@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "nano-banana-2": {
+      "command": "npx",
+      "args": ["nano-banana-2-mcp"],
+      "env": {
+        "GOOGLE_API_KEY": "${GOOGLE_API_KEY}"
+      }
+    }
+  }
+}

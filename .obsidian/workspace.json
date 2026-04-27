@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "931f5fd86b6b4ce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4ccdd10d1c8f6dd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d87082e6e2af6fb1",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "תצוגת גרף"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cdbbb8e26a77d783",
+    "type": "split",
+    "children": [
+      {
+        "id": "68dd34ed0bdac443",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ba3d16ea6863381d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "סייר קבצים"
+            }
+          },
+          {
+            "id": "8f077698ffc92011",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "לחפש"
+            }
+          },
+          {
+            "id": "ae74007984835c03",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "סימניות"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f488073e2f45dcb4",
+    "type": "split",
+    "children": [
+      {
+        "id": "a49f2261a4ef42ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab4ecd6658598a09",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "קישורים נכנסים"
+            }
+          },
+          {
+            "id": "1045cf737445fec8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "קישורים יוצאים"
+            }
+          },
+          {
+            "id": "5cf058190a7d19c3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "תגים"
+            }
+          },
+          {
+            "id": "fc68db3c4bce80d9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "כל המאפיינים"
+            }
+          },
+          {
+            "id": "6691a222e5a1f753",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "מתווה"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:פתח את המחליף המהיר": false,
+      "graph:פתח תצוגת גרף": false,
+      "canvas:צור קנבס חדש": false,
+      "daily-notes:פתח את ההערה של היום": false,
+      "templates:הכנס תבנית": false,
+      "command-palette:פתח את לוח הפקודות": false,
+      "bases:צור בסיס חדש": false
+    }
+  },
+  "active": "d87082e6e2af6fb1",
+  "lastOpenFiles": [
+    "outputs/2026-04-27_lion.png",
+    "QA_Reports",
+    "Content/Ready/2026-04-27_tigers.md",
+    "Output/2026-04-27_tigers.md",
+    "Memory/searches.md",
+    "Content/2026-04-27_tigers.md",
+    "Memory",
+    "vault/Content Briefs/yael-content-rewriter.md",
+    "Content/Ready/ai-agents-intro.md",
+    "Output/ai-agents-intro.md",
+    "Content/prompt-engineering-basics.md",
+    "Content/ai-agents-intro.md",
+    "Output",
+    "Content/Ready",
+    "Content",
+    "outputs/2026-04-27_elephant.png",
+    "outputs/2026-04-27_bull.png",
+    "vault/Meeting Notes/yuval-agent.md",
+    "vault/Meeting Notes/nano-banana-2-skill.md",
+    "outputs",
+    "reference",
+    "vault/Meeting Notes/src-skills.md",
+    "vault/Meeting Notes/src-agents.md",
+    "vault/Meeting Notes/claude-md.md.tmp.15936.1777296950482",
+    "CLAUDE.md.tmp.15936.1777296936565",
+    "vault/Meeting Notes/ceo-agent.md",
+    "docs/PRD-ceo-agent.md",
+    "docs",
+    "ceo_agent.md",
+    "CLAUDE.md",
+    "vault/Meeting Notes/data-directory.md",
+    "vault/Meeting Notes/src-utils.md",
+    "vault/Meeting Notes/src-tools.md",
+    "vault/Meeting Notes/obsidian-vault-workflow-skill.md",
+    "vault/Meeting Notes/claude-md.md",
+    "vault/Meeting Notes/project-structure.md",
+    "vault/Brand Guidelines/_index.md",
+    "vault/Publishing Log/_index.md"
+  ]
+}
